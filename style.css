@@ -1,0 +1,90 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#portifolio {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+#andre {
+    font-size: 30px;
+}
+
+#imgC {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+#img2 {
+    max-width: 60%;
+    border-radius: 27px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.322);
+}
+
+#bnt-p {
+    color: white;
+    background-color: #404347;
+    margin: 1%;
+    width: 13%;
+    height: 10%;
+    border-radius: 9px;
+    border: none;
+}
+
+#bnt-p:hover {
+    color: rgb(0, 0, 0);
+    background-color: white;
+    margin: 1%;
+    width: 13%;
+    height: 10%;
+    border-radius: 9px;
+    border: none;
+    box-shadow: 0px 0px 4px black;
+}
+
+ul li {
+    list-style: none;
+}
+
+li > a {
+    color: #000000;
+}
+
+#videos {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    background-color: #404347;
+    margin-bottom: 1.5%;
+    margin-top: 1.5%;
+
+}
+
+.v1 {
+    margin-left: 2%;
+    margin-right: 7%;
+}
+
+.v2 {
+    margin-left: 7%;
+    margin-right: 2%;
+}
+
+footer {
+    color: #FDFFFF;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+#pe {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+
+}
